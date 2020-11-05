@@ -19,7 +19,7 @@ There are many LendingClub data sets on Kaggle. Here is the information on this 
 5	sub_grade	LC assigned loan subgrade    
 6	emp_title	The job title supplied by the Borrower when applying for the loan.    
 7	emp_length	Employment length in years. Possible values are between 0 and 10 where 0 means less than one year and 10 means ten or more years.    
-8	home_ownership	The home ownership status provided by the borrower during registration or obtained from the credit report. Our values are: RENT, OWN, MORTGAGE, OTHER\n
+8	home_ownership	The home ownership status provided by the borrower during registration or obtained from the credit report. Our values are: RENT, OWN, MORTGAGE, OTHER   
 9	annual_inc	The self-reported annual income provided by the borrower during registration.   
 10	verification_status	Indicates if income was verified by LC, not verified, or if the income source was verified    
 11	issue_d	The month which the loan was funded   
