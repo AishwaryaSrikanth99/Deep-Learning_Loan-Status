@@ -9,7 +9,6 @@ The "loan_status" column contains the target label. After the model has been bui
 
 # Data Overview
 
-There are many LendingClub data sets on Kaggle. Here is the information on this particular data set:
 
 0	:  loan_amnt 	The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.     
 1: 	term	The number of payments on the loan. Values are in months and can be either 36 or 60.   
